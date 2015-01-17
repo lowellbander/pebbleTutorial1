@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lowellbander@gmail.com",
+    "longName": "Tutorial 1 ",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tutorial 1 ",
+    "uuid": "447636c9-ab74-4f87-85e8-b1b886c90d62",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
